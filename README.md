@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/averybobbitt/catppuccin-bs5/stargazers"><img src="https://img.shields.io/github/stars/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/averybobbitt/catppuccin-bs5/issues"><img src="https://img.shields.io/github/issues/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/averybobbitt/catppuccin-bs5/contributors"><img src="https://img.shields.io/github/contributors/averybobbitt/catppuccin-bs5?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
